@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: red;
+}
+button{
+    
+    font-size: 140px;
+}
+body {
+    background-image: url("amongus.gif");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
